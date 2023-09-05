@@ -1,1 +1,11 @@
-# portifolio-pessoal2
+# Projeto - Portifólio para escrita do README 
+
+## Descrição 
+
+## Funcionalidades 
+
+### Tecnologias utilizadas 
+
+## Fontes consultadas 
+
+## Autores 
