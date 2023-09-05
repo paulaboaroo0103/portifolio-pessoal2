@@ -8,14 +8,15 @@
 [Autores](#autores)  
 
 
-# Projeto - Portifólio para escrita do README 
+# 🚀 Projeto - Portifólio para escrita do README 
+![image](img/capa.png)
 
-## Descrição 
+## 📋 Descrição 
 
-## Funcionalidades 
+## 🔧 Funcionalidades 
 
-### Tecnologias utilizadas 
+### 🛠️ Tecnologias utilizadas 
 
-## Fontes consultadas 
+## 📄 Fontes consultadas 
 
-## Autores 
+## ✒️ Autores 
