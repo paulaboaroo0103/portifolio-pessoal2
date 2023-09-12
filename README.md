@@ -90,8 +90,10 @@ O Google é um mecanismo de pesquisa amplamente utilizado para encontrar informa
 - [Curso de Git e GitHub](https://www.udemy.com/course/git-e-github-para-iniciantes): Curso disponível na Udemy sobre Git e GitHub.
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/): Guia completo sobre a sintaxe Markdown utilizada no GitHub.
 - [Bootstrap Documentation](https://getbootstrap.com/docs): Documentação do Bootstrap, com exemplos e informações sobre o uso do framework.
-- [HTML Tutorial](https://www.w3schools.com/html): Tutorial detalhado sobre HTML da W3Schools, uma fonte confiável para aprender linguagens web.
+- [HTML Tutorial](https://www.w3schools.com/html): Tutorial detalhado sobre HTML, uma fonte confiável para aprender linguagens web.
 - [CSS Tutorial](https://www.w3schools.com/css): Tutorial detalhado sobre CSS da W3Schools, que abrange conceitos básicos e avançados da estilização de páginas web.
+- [GitHub informações de documentação sobre o README](https://www.alura.com.br/artigos/escrever-bom-readme): Tutorial de informações de um README.
+- [GitHub informações sobre um README](https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes): Tutorial sobre LEIAMEs.
 
 ## 3. Blogs e Websites
 
