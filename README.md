@@ -57,6 +57,9 @@ A documentação oficial do GitHub oferece guias detalhados sobre como criar um 
 
 O Visual Studio Code (VScode) é um editor de código-fonte leve e altamente personalizável. Ele oferece suporte a várias linguagens de programação e possui uma grande variedade de extensões disponíveis que podem aumentar sua produtividade durante o desenvolvimento.
 
+
+
+
 ### 4. Bootstrap
 
 O Bootstrap é uma ferramenta que oferece estruturas popular e amplamente utilizado para o desenvolvimento web responsivo. Ele oferece uma variedade de componentes e estilos pré-estilizados, facilitando a criação de layouts responsivos agradáveis.
@@ -69,7 +72,8 @@ HTML (HyperText Markup Language) e CSS (Cascading Style Sheets) são as principa
 
 Para documentar visualmente o projeto, é recomendado incluir capturas de tela relevantes. Isso pode ser feito utilizando ferramentas de captura de tela, como o Snipping Tool no Windows, ou teclas de atalho específicas nos sistemas operacionais macOS e Linux.
 
-### 7. Pasta de Arquivos
+
+### 7. Pasta de Arquivo
 
 Para uma melhor organização do projeto, é comum criar uma pasta específica para armazenar todos os arquivos relacionados a ele. Essa pasta pode conter subpastas para diferentes tipos de arquivos (por exemplo, código fonte, imagens, documentação, etc.), facilitando a localização e o acesso aos recursos.
 
